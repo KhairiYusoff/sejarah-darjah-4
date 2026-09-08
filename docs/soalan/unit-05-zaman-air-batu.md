@@ -70,14 +70,14 @@ Zaman Air Batu Akhir berlaku dalam Epok Pleistosen dan Epok Holosen.
 
 Antara berikut, yang manakah haiwan yang dikaitkan dengan Epok Pleistosen?
 
-A. Mamot
-B. Gajah moden
-C. Ayam kampung
+A. Gajah moden
+B. Ayam kampung
+C. Mamot
 D. Kucing peliharaan
 
 ### Jawapan
 
-A. Mamot
+C. Mamot
 
 ### Penerangan
 
@@ -99,14 +99,14 @@ Mamot, sloth dan harimau bertaring lengkung ialah antara haiwan yang dikaitkan d
 
 Apakah kesan pencairan air batu terhadap paras air laut?
 
-A. Paras air laut meningkat
-B. Paras air laut hilang sepenuhnya
-C. Semua sungai menjadi kering
-D. Laut bertukar menjadi daratan tanpa air
+A. Paras air laut hilang sepenuhnya
+B. Semua sungai menjadi kering
+C. Laut bertukar menjadi daratan tanpa air
+D. Paras air laut meningkat
 
 ### Jawapan
 
-A. Paras air laut meningkat
+D. Paras air laut meningkat
 
 ### Penerangan
 

@@ -12,14 +12,14 @@ Jumlah sasaran: 5 soalan
 
 Apakah maksud Alam Melayu?
 
-A. Kawasan yang merangkumi gugusan kepulauan dan tanah besar di tenggara Asia
-B. Kawasan gurun di utara benua Afrika
-C. Kawasan salji di Eropah
+A. Kawasan gurun di utara benua Afrika
+B. Kawasan salji di Eropah
+C. Kawasan yang merangkumi gugusan kepulauan dan tanah besar di tenggara Asia
 D. Sebuah bandar moden di Amerika
 
 ### Jawapan
 
-A. Kawasan yang merangkumi gugusan kepulauan dan tanah besar di tenggara Asia
+C. Kawasan yang merangkumi gugusan kepulauan dan tanah besar di tenggara Asia
 
 ### Penerangan
 
@@ -41,14 +41,14 @@ Alam Melayu merangkumi gugusan kepulauan dan tanah besar di bahagian tenggara be
 
 Di manakah lokasi Kerajaan Kedah Tua yang dirujuk dalam sumber?
 
-A. Sungai Mas dan Pangkalan Bujang, Lembah Bujang, Kedah
-B. Tanah Merah, Kelantan
-C. Jawa Tengah
-D. Sungai Sarawak, Sarawak
+A. Tanah Merah, Kelantan
+B. Jawa Tengah
+C. Sungai Sarawak, Sarawak
+D. Sungai Mas dan Pangkalan Bujang, Lembah Bujang, Kedah
 
 ### Jawapan
 
-A. Sungai Mas dan Pangkalan Bujang, Lembah Bujang, Kedah
+D. Sungai Mas dan Pangkalan Bujang, Lembah Bujang, Kedah
 
 ### Penerangan
 
@@ -99,14 +99,14 @@ Kerajaan Melayu awal menjalinkan hubungan diplomatik dengan kuasa besar seperti 
 
 Apakah salah satu tujuan politik hubungan diplomatik kerajaan Melayu awal?
 
-A. Mendapatkan pengiktirafan dan menjamin keselamatan
-B. Menghapuskan semua kegiatan perdagangan
+A. Menghapuskan semua kegiatan perdagangan
+B. Mendapatkan pengiktirafan dan menjamin keselamatan
 C. Menutup semua pelabuhan
 D. Mengasingkan kerajaan daripada negara lain
 
 ### Jawapan
 
-A. Mendapatkan pengiktirafan dan menjamin keselamatan
+B. Mendapatkan pengiktirafan dan menjamin keselamatan
 
 ### Penerangan
 
@@ -128,14 +128,14 @@ Hubungan diplomatik membantu kerajaan Melayu awal mendapatkan pengiktirafan, men
 
 Mengapakah lembah sungai sesuai untuk kegiatan pertanian?
 
-A. Tanahnya subur
-B. Tiada penduduk tinggal di situ
-C. Semua kawasan itu dilitupi salji
+A. Tiada penduduk tinggal di situ
+B. Semua kawasan itu dilitupi salji
+C. Tanahnya subur
 D. Tiada sumber air di kawasan tersebut
 
 ### Jawapan
 
-A. Tanahnya subur
+C. Tanahnya subur
 
 ### Penerangan
 

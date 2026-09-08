@@ -12,14 +12,14 @@ Jumlah sasaran: 5 soalan
 
 Apakah fungsi utama sekolah kepada murid?
 
-A. Tempat untuk menimba ilmu
-B. Tempat untuk menyimpan barang sahaja
-C. Tempat untuk bercuti setiap hari
+A. Tempat untuk menyimpan barang sahaja
+B. Tempat untuk bercuti setiap hari
+C. Tempat untuk menimba ilmu
 D. Tempat untuk menjual semua keperluan rumah
 
 ### Jawapan
 
-A. Tempat untuk menimba ilmu
+C. Tempat untuk menimba ilmu
 
 ### Penerangan
 
@@ -41,14 +41,14 @@ Sekolah ialah tempat murid mendapatkan ilmu pengetahuan dan membina diri.
 
 Apakah contoh mercu tanda yang boleh membantu mengenal pasti lokasi sekolah?
 
-A. Hospital
-B. Buku latihan
-C. Beg sekolah
-D. Pensel warna
+A. Buku latihan
+B. Beg sekolah
+C. Pensel warna
+D. Hospital
 
 ### Jawapan
 
-A. Hospital
+D. Hospital
 
 ### Penerangan
 
@@ -99,14 +99,14 @@ Sejarah sekolah boleh merangkumi asal usul, penubuhan dan perubahan sekolah dari
 
 Antara berikut, yang manakah contoh identiti sekolah?
 
-A. Lencana sekolah
-B. Resit pembelian
+A. Resit pembelian
+B. Lencana sekolah
 C. Jadual bas awam
 D. Menu restoran
 
 ### Jawapan
 
-A. Lencana sekolah
+B. Lencana sekolah
 
 ### Penerangan
 
@@ -129,13 +129,13 @@ Lencana, lagu dan bendera sekolah ialah unsur yang melambangkan identiti sesebua
 Siapakah ketua pentadbiran sekolah?
 
 A. Ketua kelas
-B. Guru besar
-C. Pengawas perpustakaan
+B. Pengawas perpustakaan
+C. Guru besar
 D. Ketua pasukan sukan
 
 ### Jawapan
 
-B. Guru besar
+C. Guru besar
 
 ### Penerangan
 

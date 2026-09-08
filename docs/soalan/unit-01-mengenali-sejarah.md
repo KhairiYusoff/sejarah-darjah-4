@@ -12,14 +12,14 @@ Jumlah sasaran: 5 soalan
 
 Apakah maksud sejarah?
 
-A. Cerita rekaan tentang masa hadapan
-B. Peristiwa benar yang berlaku pada masa lampau
+A. Peristiwa benar yang berlaku pada masa lampau
+B. Cerita rekaan tentang masa hadapan
 C. Senarai tempat pelancongan
 D. Lukisan tentang kehidupan moden
 
 ### Jawapan
 
-B. Peristiwa benar yang berlaku pada masa lampau
+A. Peristiwa benar yang berlaku pada masa lampau
 
 ### Penerangan
 
@@ -42,13 +42,13 @@ Sejarah merujuk kepada peristiwa benar yang berlaku pada masa lampau.
 Antara berikut, yang manakah contoh sumber primer?
 
 A. Ensiklopedia
-B. Majalah
-C. Diari
+B. Diari
+C. Majalah
 D. Risalah
 
 ### Jawapan
 
-C. Diari
+B. Diari
 
 ### Penerangan
 
@@ -70,14 +70,14 @@ Diari ialah bahan asal yang berkaitan secara langsung dengan pengalaman atau per
 
 Kaedah penyelidikan sejarah yang menggunakan temu bual ialah kaedah...
 
-A. Lisan
-B. Bertulis
-C. Arkeologi
+A. Bertulis
+B. Arkeologi
+C. Lisan
 D. Garis masa
 
 ### Jawapan
 
-A. Lisan
+C. Lisan
 
 ### Penerangan
 
@@ -100,13 +100,13 @@ Kaedah lisan mendapatkan maklumat melalui temu bual atau percakapan dengan indiv
 Apakah maksud kronologi?
 
 A. Kajian tentang tinggalan sejarah
-B. Susunan peristiwa mengikut urutan masa
-C. Tempat berlakunya sesuatu peristiwa
-D. Kesan selepas sesuatu peristiwa berlaku
+B. Tempat berlakunya sesuatu peristiwa
+C. Kesan selepas sesuatu peristiwa berlaku
+D. Susunan peristiwa mengikut urutan masa
 
 ### Jawapan
 
-B. Susunan peristiwa mengikut urutan masa
+D. Susunan peristiwa mengikut urutan masa
 
 ### Penerangan
 
@@ -128,14 +128,14 @@ Kronologi ialah susunan peristiwa mengikut urutan masa.
 
 Apakah yang dimaksudkan dengan akibat dalam sesuatu peristiwa sejarah?
 
-A. Faktor yang menyebabkan peristiwa berlaku
-B. Tempat berlakunya peristiwa
-C. Kesan yang berlaku selepas sesuatu peristiwa
+A. Kesan yang berlaku selepas sesuatu peristiwa
+B. Faktor yang menyebabkan peristiwa berlaku
+C. Tempat berlakunya peristiwa
 D. Susunan peristiwa mengikut masa
 
 ### Jawapan
 
-C. Kesan yang berlaku selepas sesuatu peristiwa
+A. Kesan yang berlaku selepas sesuatu peristiwa
 
 ### Penerangan
 

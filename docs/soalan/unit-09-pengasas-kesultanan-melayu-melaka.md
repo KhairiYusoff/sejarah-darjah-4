@@ -41,14 +41,14 @@ Parameswara ialah tokoh yang dikaitkan dengan pengasasan Kesultanan Melayu Melak
 
 Apakah nama lama bagi Singapura?
 
-A. Temasik
-B. Palembang
+A. Palembang
+B. Temasik
 C. Sening Ujong
 D. Sungai Bertam
 
 ### Jawapan
 
-A. Temasik
+B. Temasik
 
 ### Penerangan
 
@@ -70,14 +70,14 @@ Temasik ialah nama lama bagi Singapura dan merupakan salah satu tempat yang dila
 
 Apakah peristiwa yang dianggap sebagai petanda baik oleh Parameswara ketika membuka Melaka?
 
-A. Pelanduk putih menendang anjing pemburuan
-B. Kapal pedagang tiba dari China
-C. Hujan turun sepanjang hari
+A. Kapal pedagang tiba dari China
+B. Hujan turun sepanjang hari
+C. Pelanduk putih menendang anjing pemburuan
 D. Penduduk membina sebuah istana
 
 ### Jawapan
 
-A. Pelanduk putih menendang anjing pemburuan
+C. Pelanduk putih menendang anjing pemburuan
 
 ### Penerangan
 
@@ -99,14 +99,14 @@ Parameswara menganggap peristiwa haiwan kecil mengalahkan haiwan yang lebih besa
 
 Apakah maksud Malakat menurut sumber Arab?
 
-A. Perhimpunan segala dagang
-B. Tempat perlindungan
-C. Pokok pertama di alam semesta
-D. Jalan laut timur dan barat
+A. Tempat perlindungan
+B. Pokok pertama di alam semesta
+C. Jalan laut timur dan barat
+D. Perhimpunan segala dagang
 
 ### Jawapan
 
-A. Perhimpunan segala dagang
+D. Perhimpunan segala dagang
 
 ### Penerangan
 

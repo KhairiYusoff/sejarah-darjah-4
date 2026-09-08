@@ -12,14 +12,14 @@ Jumlah sasaran: 5 soalan
 
 Apakah maksud Zaman Prasejarah?
 
-A. Zaman sebelum manusia mengenal tulisan
-B. Zaman selepas manusia mencipta komputer
+A. Zaman selepas manusia mencipta komputer
+B. Zaman sebelum manusia mengenal tulisan
 C. Zaman ketika semua manusia tinggal di bandar
 D. Zaman apabila tiada manusia wujud
 
 ### Jawapan
 
-A. Zaman sebelum manusia mengenal tulisan
+B. Zaman sebelum manusia mengenal tulisan
 
 ### Penerangan
 
@@ -42,13 +42,13 @@ Zaman Prasejarah ialah zaman sebelum manusia mengenal tulisan. Tinggalan daripad
 Apakah urutan tahap Zaman Prasejarah yang betul?
 
 A. Logam, Neolitik, Mesolitik, Paleolitik
-B. Paleolitik, Mesolitik, Neolitik, Logam
-C. Mesolitik, Paleolitik, Logam, Neolitik
+B. Mesolitik, Paleolitik, Logam, Neolitik
+C. Paleolitik, Mesolitik, Neolitik, Logam
 D. Neolitik, Logam, Paleolitik, Mesolitik
 
 ### Jawapan
 
-B. Paleolitik, Mesolitik, Neolitik, Logam
+C. Paleolitik, Mesolitik, Neolitik, Logam
 
 ### Penerangan
 
@@ -70,14 +70,14 @@ Empat tahap Zaman Prasejarah disusun daripada Zaman Paleolitik, Mesolitik, Neoli
 
 Apakah bukti kewujudan Zaman Prasejarah di negara kita?
 
-A. Penemuan artifak dan fosil
-B. Pembinaan pusat beli-belah
-C. Penggunaan telefon pintar
-D. Penerbitan berita harian
+A. Pembinaan pusat beli-belah
+B. Penggunaan telefon pintar
+C. Penerbitan berita harian
+D. Penemuan artifak dan fosil
 
 ### Jawapan
 
-A. Penemuan artifak dan fosil
+D. Penemuan artifak dan fosil
 
 ### Penerangan
 
@@ -128,14 +128,14 @@ Pada Zaman Neolitik, manusia mula bercucuk tanam, menangkap ikan, menternak haiw
 
 Apakah alat yang digunakan pada masa kini untuk membantu meningkatkan hasil pertanian?
 
-A. Jentera
-B. Lukisan gua
+A. Lukisan gua
+B. Jentera
 C. Kayu api
 D. Perahu batang pokok
 
 ### Jawapan
 
-A. Jentera
+B. Jentera
 
 ### Penerangan
 

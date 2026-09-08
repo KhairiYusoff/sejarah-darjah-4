@@ -12,14 +12,14 @@ Jumlah sasaran: 5 soalan
 
 Apakah maksud biodata diri?
 
-A. Maklumat asas tentang seseorang
-B. Senarai peraturan sekolah
+A. Senarai peraturan sekolah
+B. Maklumat asas tentang seseorang
 C. Cerita tentang tempat tinggal
 D. Jadual aktiviti keluarga
 
 ### Jawapan
 
-A. Maklumat asas tentang seseorang
+B. Maklumat asas tentang seseorang
 
 ### Penerangan
 
@@ -41,14 +41,14 @@ Biodata diri mengandungi maklumat asas seperti nama, tarikh kelahiran dan tempat
 
 Antara berikut, yang manakah boleh digunakan untuk merujuk maklumat diri?
 
-A. Sijil kelahiran
-B. Buku cerita
-C. Surat khabar lama
+A. Buku cerita
+B. Surat khabar lama
+C. Sijil kelahiran
 D. Poster permainan
 
 ### Jawapan
 
-A. Sijil kelahiran
+C. Sijil kelahiran
 
 ### Penerangan
 
@@ -72,12 +72,12 @@ Apakah maksud keluarga kembangan?
 
 A. Keluarga yang hanya terdiri daripada seorang anak
 B. Keluarga yang tinggal di sekolah
-C. Keluarga asas bersama anggota keluarga yang lebih luas
-D. Keluarga yang tidak mempunyai ibu bapa
+C. Keluarga yang tidak mempunyai ibu bapa
+D. Keluarga asas bersama anggota keluarga yang lebih luas
 
 ### Jawapan
 
-C. Keluarga asas bersama anggota keluarga yang lebih luas
+D. Keluarga asas bersama anggota keluarga yang lebih luas
 
 ### Penerangan
 
@@ -128,14 +128,14 @@ Anak-anak bertanggungjawab membantu anggota keluarga, saling menghormati, menden
 
 Apakah kegunaan garis masa dalam menunjukkan perkembangan diri?
 
-A. Menyusun peristiwa penting mengikut urutan masa
-B. Menentukan warna kegemaran seseorang
+A. Menentukan warna kegemaran seseorang
+B. Menyusun peristiwa penting mengikut urutan masa
 C. Menyenaraikan semua permainan yang ada
 D. Menggantikan dokumen pengenalan diri
 
 ### Jawapan
 
-A. Menyusun peristiwa penting mengikut urutan masa
+B. Menyusun peristiwa penting mengikut urutan masa
 
 ### Penerangan
 

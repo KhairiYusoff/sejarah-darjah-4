@@ -12,14 +12,14 @@ Jumlah sasaran: 5 soalan
 
 Dari manakah asal Hang Tuah?
 
-A. Kampung Sungai Duyung
-B. Kampung Sungai Lang
-C. Lembah Bujang
+A. Kampung Sungai Lang
+B. Lembah Bujang
+C. Kampung Sungai Duyung
 D. Tanah Merah
 
 ### Jawapan
 
-A. Kampung Sungai Duyung
+C. Kampung Sungai Duyung
 
 ### Penerangan
 
@@ -41,14 +41,14 @@ Hang Tuah berasal dari Kampung Sungai Duyung. Bapanya bernama Hang Mahmud dan ib
 
 Siapakah antara berikut sahabat karib Hang Tuah?
 
-A. Hang Jebat
-B. Temagi
-C. Tun Perpatih Serdang
-D. Raja Muhammad
+A. Temagi
+B. Tun Perpatih Serdang
+C. Raja Muhammad
+D. Hang Jebat
 
 ### Jawapan
 
-A. Hang Jebat
+D. Hang Jebat
 
 ### Penerangan
 
@@ -99,14 +99,14 @@ Penguasaan 12 bahasa membantu Hang Tuah menjalankan tugas rasmi dengan lebih bai
 
 Siapakah guru ilmu persilatan Hang Tuah?
 
-A. Aria Putera
-B. Patih Gajah Mada
+A. Patih Gajah Mada
+B. Aria Putera
 C. Bendahara Tun Perak
 D. Maharaja China
 
 ### Jawapan
 
-A. Aria Putera
+B. Aria Putera
 
 ### Penerangan
 
@@ -128,14 +128,14 @@ Hang Tuah mempelajari ilmu persilatan daripada gurunya, Aria Putera.
 
 Apakah peranan Hang Tuah sebagai laksamana?
 
-A. Mengetuai angkatan laut dan menjaga keamanan perairan Melaka
-B. Menguruskan semua kegiatan pertanian
-C. Menentukan harga barangan di pasar
+A. Menguruskan semua kegiatan pertanian
+B. Menentukan harga barangan di pasar
+C. Mengetuai angkatan laut dan menjaga keamanan perairan Melaka
 D. Membina semua rumah penduduk
 
 ### Jawapan
 
-A. Mengetuai angkatan laut dan menjaga keamanan perairan Melaka
+C. Mengetuai angkatan laut dan menjaga keamanan perairan Melaka
 
 ### Penerangan
 

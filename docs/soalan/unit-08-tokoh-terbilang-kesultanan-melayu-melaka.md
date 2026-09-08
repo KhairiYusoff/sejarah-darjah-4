@@ -12,14 +12,14 @@ Jumlah sasaran: 5 soalan
 
 Apakah dua golongan utama dalam struktur masyarakat Kesultanan Melayu Melaka?
 
-A. Golongan pemerintah dan golongan yang diperintah
-B. Golongan pedagang dan golongan petani sahaja
-C. Golongan guru dan golongan murid
-D. Golongan nelayan dan golongan pelombong
+A. Golongan pedagang dan golongan petani sahaja
+B. Golongan guru dan golongan murid
+C. Golongan nelayan dan golongan pelombong
+D. Golongan pemerintah dan golongan yang diperintah
 
 ### Jawapan
 
-A. Golongan pemerintah dan golongan yang diperintah
+D. Golongan pemerintah dan golongan yang diperintah
 
 ### Penerangan
 
@@ -70,14 +70,14 @@ Tokoh terbilang dihormati kerana jasa, kepimpinan dan sumbangan mereka kepada ne
 
 Siapakah tokoh yang mengasaskan Kesultanan Melayu Melaka?
 
-A. Parameswara
-B. Hang Tuah
+A. Hang Tuah
+B. Parameswara
 C. Tun Perak
 D. Sultan Alauddin Riayat Shah
 
 ### Jawapan
 
-A. Parameswara
+B. Parameswara
 
 ### Penerangan
 
@@ -99,14 +99,14 @@ Parameswara ialah pengasas Kesultanan Melayu Melaka dan berusaha memajukan Melak
 
 Siapakah yang menjadi penasihat sultan dalam urusan pentadbiran?
 
-A. Bendahara
-B. Rakyat
-C. Hamba
+A. Rakyat
+B. Hamba
+C. Bendahara
 D. Pedagang asing
 
 ### Jawapan
 
-A. Bendahara
+C. Bendahara
 
 ### Penerangan
 
@@ -128,14 +128,14 @@ Bendahara berperanan sebagai penasihat sultan dan ketua pembesar dalam pentadbir
 
 Apakah peranan laksamana dalam Kesultanan Melayu Melaka?
 
-A. Menjaga keamanan perairan Melaka dan keselamatan pedagang
-B. Menentukan semua harga tanaman
-C. Menguruskan pendaftaran murid
-D. Membina semua rumah penduduk
+A. Menentukan semua harga tanaman
+B. Menguruskan pendaftaran murid
+C. Membina semua rumah penduduk
+D. Menjaga keamanan perairan Melaka dan keselamatan pedagang
 
 ### Jawapan
 
-A. Menjaga keamanan perairan Melaka dan keselamatan pedagang
+D. Menjaga keamanan perairan Melaka dan keselamatan pedagang
 
 ### Penerangan
 

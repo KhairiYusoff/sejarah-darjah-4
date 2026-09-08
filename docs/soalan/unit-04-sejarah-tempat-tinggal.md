@@ -12,14 +12,14 @@ Jumlah sasaran: 5 soalan
 
 Apakah yang termasuk dalam tempat tinggal seseorang?
 
-A. Rumah dan kawasan sekitarnya
-B. Sekolah di negeri lain sahaja
-C. Kedai yang paling jauh
-D. Semua tempat pelancongan
+A. Sekolah di negeri lain sahaja
+B. Kedai yang paling jauh
+C. Semua tempat pelancongan
+D. Rumah dan kawasan sekitarnya
 
 ### Jawapan
 
-A. Rumah dan kawasan sekitarnya
+D. Rumah dan kawasan sekitarnya
 
 ### Penerangan
 
@@ -70,14 +70,14 @@ Sungai, tasik, bukit, gunung, pantai dan hutan ialah contoh ciri kawasan atau be
 
 Bagaimanakah kawasan tempat tinggal boleh mempengaruhi kehidupan penduduk?
 
-A. Mempengaruhi pekerjaan dan aktiviti harian
-B. Menentukan semua nama murid
+A. Menentukan semua nama murid
+B. Mempengaruhi pekerjaan dan aktiviti harian
 C. Menghapuskan semua adat masyarakat
 D. Menjadikan semua kawasan sama
 
 ### Jawapan
 
-A. Mempengaruhi pekerjaan dan aktiviti harian
+B. Mempengaruhi pekerjaan dan aktiviti harian
 
 ### Penerangan
 
@@ -99,14 +99,14 @@ Bentuk muka bumi dan sumber alam di sesuatu kawasan boleh mempengaruhi cara hidu
 
 Apakah yang boleh dikaji dalam sejarah tempat tinggal?
 
-A. Asal usul nama dan perubahan kawasan
-B. Warna pakaian setiap penduduk
-C. Semua permainan di sekolah
+A. Warna pakaian setiap penduduk
+B. Semua permainan di sekolah
+C. Asal usul nama dan perubahan kawasan
 D. Jenama makanan kegemaran masyarakat
 
 ### Jawapan
 
-A. Asal usul nama dan perubahan kawasan
+C. Asal usul nama dan perubahan kawasan
 
 ### Penerangan
 
@@ -128,14 +128,14 @@ Sejarah tempat tinggal meliputi asal usul nama, perubahan penduduk, kemudahan, k
 
 Mengapakah tokoh setempat dihormati oleh masyarakat?
 
-A. Kerana jasa dan sumbangan mereka
-B. Kerana mereka tidak pernah membantu orang lain
-C. Kerana mereka tinggal paling jauh
-D. Kerana mereka mempunyai banyak permainan
+A. Kerana mereka tidak pernah membantu orang lain
+B. Kerana mereka tinggal paling jauh
+C. Kerana mereka mempunyai banyak permainan
+D. Kerana jasa dan sumbangan mereka
 
 ### Jawapan
 
-A. Kerana jasa dan sumbangan mereka
+D. Kerana jasa dan sumbangan mereka
 
 ### Penerangan
 

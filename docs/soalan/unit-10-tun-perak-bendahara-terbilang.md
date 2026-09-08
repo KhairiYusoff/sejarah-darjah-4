@@ -12,14 +12,14 @@ Jumlah sasaran: 5 soalan
 
 Apakah jawatan yang pernah disandang oleh Tun Perak?
 
-A. Penghulu Klang, Penghulu Bendahari Melaka dan Bendahara Melaka
-B. Laksamana China, pedagang dan petani
+A. Laksamana China, pedagang dan petani
+B. Penghulu Klang, Penghulu Bendahari Melaka dan Bendahara Melaka
 C. Guru besar, ketua kelas dan pengawal istana
 D. Raja Siam, pembesar Jawa dan nakhoda
 
 ### Jawapan
 
-A. Penghulu Klang, Penghulu Bendahari Melaka dan Bendahara Melaka
+B. Penghulu Klang, Penghulu Bendahari Melaka dan Bendahara Melaka
 
 ### Penerangan
 
@@ -70,14 +70,14 @@ Tun Perak berkhidmat kepada Sultan Muzaffar Shah, Sultan Mansur Shah, Sultan Ala
 
 Apakah peranan Tun Perak sebagai ketua diplomat?
 
-A. Menguruskan hubungan diplomatik dengan kerajaan lain
-B. Menentukan semua jenis tanaman
-C. Menguruskan kegiatan sukan sekolah
-D. Menghasilkan semua barangan tembikar
+A. Menentukan semua jenis tanaman
+B. Menguruskan kegiatan sukan sekolah
+C. Menghasilkan semua barangan tembikar
+D. Menguruskan hubungan diplomatik dengan kerajaan lain
 
 ### Jawapan
 
-A. Menguruskan hubungan diplomatik dengan kerajaan lain
+D. Menguruskan hubungan diplomatik dengan kerajaan lain
 
 ### Penerangan
 
@@ -128,14 +128,14 @@ Cahaya jamung menyebabkan tentera Siam menyangka tentera Melaka telah bersiap se
 
 Apakah tindakan Tun Perak selepas anaknya, Tun Besar, dibunuh oleh Raja Muhammad?
 
-A. Melarang pengikutnya menuntut bela dan terus setia kepada Sultan Melaka
-B. Menyerang semua kerajaan jiran
+A. Menyerang semua kerajaan jiran
+B. Melarang pengikutnya menuntut bela dan terus setia kepada Sultan Melaka
 C. Meninggalkan Melaka bersama semua rakyat
 D. Menutup semua pelabuhan Melaka
 
 ### Jawapan
 
-A. Melarang pengikutnya menuntut bela dan terus setia kepada Sultan Melaka
+B. Melarang pengikutnya menuntut bela dan terus setia kepada Sultan Melaka
 
 ### Penerangan
 
