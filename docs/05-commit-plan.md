@@ -3,7 +3,19 @@
 ## Strategi commit
 Semua commit perlu kecil, jelas dan mudah difahami. Tujuan utama ialah menunjukkan progres pembelajaran dan pembangunan secara berperingkat.
 
-## Cadangan urutan commit
+## Status semasa
+
+| Status | Item |
+| --- | --- |
+| [x] | Dokumentasi projek siap |
+| [x] | Kandungan Unit 1 hingga Unit 11 siap |
+| [x] | Bank soalan siap: 55 soalan, 5 soalan setiap unit |
+| [x] | Taburan jawapan seimbang: A=14, B=14, C=14, D=13 |
+| [x] | Panduan handoff tersedia di `docs/00-handoff.md` |
+| [ ] | Status kandungan ditukar daripada `needs-review` kepada `verified` |
+| [~] | Langkah coding semasa: bina TypeScript data model |
+
+## Urutan commit yang telah dicadangkan
 
 1. `chore: initialize Expo project`
 2. `docs: add project vision and architecture`
@@ -15,6 +27,19 @@ Semua commit perlu kecil, jelas dan mudah difahami. Tujuan utama ialah menunjukk
 8. `feat: add result screen`
 9. `refactor: improve quiz layout and styling`
 10. `docs: add roadmap and commit plan`
+
+## Urutan commit seterusnya
+
+| Status | No. | Commit |
+| --- | ---: | --- |
+| [ ] | 11 | `feat: add question data model` |
+| [ ] | 12 | `feat: add complete question dataset` |
+| [ ] | 13 | `feat: extract quiz screen` |
+| [ ] | 14 | `feat: add reusable quiz components` |
+| [ ] | 15 | `feat: add quiz state hook` |
+| [ ] | 16 | `test: validate quiz flow` |
+
+Setiap commit selepas nombor 10 perlu dibuat hanya selepas validasi berkaitan berjaya. Rujuk `docs/00-handoff.md` untuk tugas setiap commit.
 
 ## Peraturan commit
 - Gunakan mesej ringkas namun jelas
