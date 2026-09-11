@@ -2,6 +2,9 @@ import { StatusBar } from 'expo-status-bar';
 import { useMemo, useState } from 'react';
 import { Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { questions } from '../data/questions';
+import Header from '../components/Header';
+import QuestionCard from '../components/QuestionCard';
+import ResultCard from '../components/ResultCard';
 
 export default function QuizScreen() {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -48,11 +51,7 @@ export default function QuizScreen() {
     <SafeAreaView style={styles.safeArea}>
       <StatusBar style="light" />
       <ScrollView contentContainerStyle={styles.container}>
-        <View style={styles.header}>
-          <Text style={styles.kicker}>Sejarah Darjah 4</Text>
-          <Text style={styles.title}>Kuiz Bijak Sejarah</Text>
-          <Text style={styles.subtitle}>Jawab soalan, semak penerangan, dan cuba capai markah penuh.</Text>
-        </View>
+        <Header />
 
         <View style={styles.summaryRow}>
           <View style={styles.summaryItem}>
@@ -65,67 +64,19 @@ export default function QuizScreen() {
           </View>
         </View>
 
-        <View style={styles.card}>
-          <Text style={styles.question}>{currentQuestion.prompt}</Text>
-
-          <View style={styles.options}>
-            {currentQuestion.options.map((option, optionIndex) => {
-              const isSelected = selectedIndex === optionIndex;
-              const isCorrect = currentQuestion.answerIndex === optionIndex;
-              const showCorrect = answered && isCorrect;
-              const showWrong = answered && isSelected && !isCorrect;
-
-              return (
-                <Pressable
-                  accessibilityRole="button"
-                  disabled={answered}
-                  key={option}
-                  onPress={() => chooseAnswer(optionIndex)}
-                  style={({ pressed }) => [
-                    styles.optionButton,
-                    pressed && styles.optionPressed,
-                    showCorrect && styles.correctOption,
-                    showWrong && styles.wrongOption,
-                  ]}
-                >
-                  <Text
-                    style={[
-                      styles.optionText,
-                      (showCorrect || showWrong) && styles.answeredOptionText,
-                    ]}
-                  >
-                    {option}
-                  </Text>
-                </Pressable>
-              );
-            })}
-          </View>
-
-          {answered ? (
-            <View style={styles.feedback}>
-              <Text style={styles.feedbackTitle}>
-                {selectedIndex === currentQuestion.answerIndex ? 'Tepat!' : 'Belum tepat'}
-              </Text>
-              <Text style={styles.feedbackText}>{currentQuestion.explanation}</Text>
-            </View>
-          ) : null}
-        </View>
+        <QuestionCard
+          question={currentQuestion}
+          selectedIndex={selectedIndex}
+          answered={answered}
+          onChooseAnswer={chooseAnswer}
+        />
 
         {isFinished ? (
-          <View style={styles.resultCard}>
-            <Text style={styles.resultTitle}>Keputusan Akhir</Text>
-            <Text style={styles.resultScore}>
-              {score} / {questions.length}
-            </Text>
-            <Text style={styles.resultText}>
-              {score === questions.length
-                ? 'Hebat! Semua jawapan betul.'
-                : 'Teruskan ulang kaji dan cuba sekali lagi.'}
-            </Text>
-            <Pressable accessibilityRole="button" onPress={restartQuiz} style={styles.primaryButton}>
-              <Text style={styles.primaryButtonText}>Mula Semula</Text>
-            </Pressable>
-          </View>
+          <ResultCard
+            score={score}
+            totalQuestions={questions.length}
+            onRestart={restartQuiz}
+          />
         ) : (
           <Pressable
             accessibilityRole="button"
@@ -152,28 +103,6 @@ const styles = StyleSheet.create({
     padding: 20,
     backgroundColor: '#17324d',
   },
-  header: {
-    gap: 8,
-    paddingTop: 20,
-  },
-  kicker: {
-    color: '#f7c948',
-    fontSize: 14,
-    fontWeight: '700',
-    letterSpacing: 0,
-    textTransform: 'uppercase',
-  },
-  title: {
-    color: '#ffffff',
-    fontSize: 34,
-    fontWeight: '800',
-    letterSpacing: 0,
-  },
-  subtitle: {
-    color: '#d6e4f0',
-    fontSize: 16,
-    lineHeight: 23,
-  },
   summaryRow: {
     flexDirection: 'row',
     gap: 12,
@@ -194,87 +123,6 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: '800',
     marginTop: 4,
-  },
-  card: {
-    gap: 18,
-    borderRadius: 8,
-    backgroundColor: '#ffffff',
-    padding: 20,
-  },
-  question: {
-    color: '#17324d',
-    fontSize: 22,
-    fontWeight: '800',
-    lineHeight: 30,
-  },
-  options: {
-    gap: 10,
-  },
-  optionButton: {
-    borderWidth: 2,
-    borderColor: '#d8e2ec',
-    borderRadius: 8,
-    padding: 15,
-    backgroundColor: '#f8fbfd',
-  },
-  optionPressed: {
-    transform: [{ scale: 0.99 }],
-  },
-  correctOption: {
-    borderColor: '#1f8a5b',
-    backgroundColor: '#1f8a5b',
-  },
-  wrongOption: {
-    borderColor: '#c2412d',
-    backgroundColor: '#c2412d',
-  },
-  optionText: {
-    color: '#17324d',
-    fontSize: 16,
-    fontWeight: '700',
-    lineHeight: 22,
-  },
-  answeredOptionText: {
-    color: '#ffffff',
-  },
-  feedback: {
-    borderLeftWidth: 4,
-    borderLeftColor: '#f7c948',
-    gap: 5,
-    paddingLeft: 12,
-  },
-  feedbackTitle: {
-    color: '#17324d',
-    fontSize: 18,
-    fontWeight: '800',
-  },
-  feedbackText: {
-    color: '#52677a',
-    fontSize: 15,
-    lineHeight: 22,
-  },
-  resultCard: {
-    alignItems: 'center',
-    gap: 10,
-    borderRadius: 8,
-    backgroundColor: '#f7c948',
-    padding: 20,
-  },
-  resultTitle: {
-    color: '#17324d',
-    fontSize: 18,
-    fontWeight: '800',
-  },
-  resultScore: {
-    color: '#17324d',
-    fontSize: 42,
-    fontWeight: '900',
-  },
-  resultText: {
-    color: '#17324d',
-    fontSize: 15,
-    fontWeight: '700',
-    textAlign: 'center',
   },
   primaryButton: {
     alignItems: 'center',
