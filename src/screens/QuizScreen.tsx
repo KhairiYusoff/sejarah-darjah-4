@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
-import { Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import Header from '../components/Header';
 import QuestionCard from '../components/QuestionCard';
 import ResultCard from '../components/ResultCard';
